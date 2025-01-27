@@ -1,2 +1,2 @@
 # COMP5120
-Database Systems at Auburn University
+This is my SQL Term Project for Database Systems at Auburn University
